@@ -1,4 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/fCj1NH9.jpg" group-title="",&flix
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://imgur.com/rCP3Y7T" group-title="",Zee Cinema HD
+https://z5amshls.akamaized.net//zcinemahd/tracks-v4a1/mono.m3u8
+#EXTINF:-2 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/fCj1NH9.jpg" group-title="",&flix
 https://z5amshls.akamaized.net/andflix/tracks-v2a1/mono.m3u8
