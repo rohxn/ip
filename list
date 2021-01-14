@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:Sony_SAB_HD
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_SAB_HD/Sony_SAB_HD_1200.m3u8
+#EXTINF:&flix
+https://z5amshls.akamaized.net/andflix/tracks-v2a1/mono.m3u8
