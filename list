@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/sURSx5C.jpg" group-title="",Sony Sab Hd
+https://bit.ly/35Nk7tQ
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/sURSx5C.jpg" group-title="",Sony Set Hindi
 http://103.81.241.48:8000/play/a02h
 
