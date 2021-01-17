@@ -1,26 +1,50 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/sURSx5C.jpg" group-title="",Sony Set Hindi
+http://103.81.241.48:8000/play/a02h
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/rCP3Y7T.png" group-title="",Zee Cinema HD
-https://z5amshls.akamaized.net//zcinemahd/tracks-v4a1/mono.m3u8
-#EXTINF:-2 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/2WeC3LD.jpg" group-title="",&pictures HD
-https://z5amshls.akamaized.net//andpicshd/tracks-v4a1/mono.m3u8
+#EXTINF:-2 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/h6aO9IP.jpg" group-title="",Star Plus
+http://103.81.241.48:8000/play/a02g
 
-#EXTINF:-3 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/fCj1NH9.jpg" group-title="",&flix HD
-https://z5amshls.akamaized.net/andflix/tracks-v3a1/mono.m3u8
-#EXTINF:-4 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/fCj1NH9.jpg" group-title="",&flix
-https://z5amshls.akamaized.net/andflix/tracks-v2a1/mono.m3u8
-#EXTINF:-5 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/GPLYOBB.jpg" group-title="",HBO
-http://136.243.177.164/HBO/playlist.m3u8
-#EXTINF:-6 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/5CZZx8w.jpg" group-title="",Zee Tv
+#EXTINF:-3 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/5CZZx8w.jpg" group-title="",Zee Tv
 https://z5amshls.akamaized.net//apacsea/tracks-v3a1/mono.m3u8
-#EXTINF:-7 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/wF7yIzf.jpg" group-title="",Star Sports Hindi
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=veera4utv
-#EXTINF:-8 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/Gttxk4X.png.jpg" group-title="",Aaj Tak
-http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
-#EXTINF:-9 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/srQLp0z.png" group-title="",R Bharat
-https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?
-#EXTINF:-10 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/UAeASJQ.png" group-title="",Zee bihar
-https://z5amshls.akamaized.net//biharjharkh/tracks-v4a1/mono.m3u8
-#EXTINF:-11 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/QkrhHrF.png" group-title="",9xm
+
+#EXTINF:-4 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/rCP3Y7T.png" group-title="",Zee Cinema HD
+https://z5amshls.akamaized.net//zcinemahd/tracks-v4a1/mono.m3u8
+
+#EXTINF:-5 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/2WeC3LD.jpg" group-title="",&pictures HD
+http://103.81.241.48:8000/play/a02i
+
+#EXTINF:-6 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/fCj1NH9.jpg" group-title="",&flix HD
+https://z5amshls.akamaized.net/andflix/tracks-v3a1/mono.m3u8
+
+#EXTINF:-7 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/fCj1NH9.jpg" group-title="",&flix
+https://z5amshls.akamaized.net/andflix/tracks-v2a1/mono.m3u8
+
+#EXTINF:-8 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/GPLYOBB.jpg" group-title="",HBO
+http://136.243.177.164/HBO/playlist.m3u8
+
+#EXTINF:-9 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/HbfNpBy.png" group-title="",National Geographic Channel HD 
+http://103.81.241.48:8000/play/a02e
+
+#EXTINF:-10 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/QkrhHrF.png" group-title="",9xm
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
+
+
+#EXTINF:-11 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/wF7yIzf.jpg" group-title="",Star Sports Hindi
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=veera4utv
+
+#EXTINF:-12 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/Gttxk4X.png.jpg" group-title="",Aaj Tak
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+
+#EXTINF:-13 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/srQLp0z.png" group-title="",R Bharat
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?
+
+#EXTINF:-14 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/UAeASJQ.png" group-title="",Zee bihar
+https://z5amshls.akamaized.net//biharjharkh/tracks-v4a1/mono.m3u8
+
+#EXTINF:-15 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/QkrhHrF.png" group-title="",9xm
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
+
+#EXTINF:-16 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/ZB5gftI.jpg" group-title="",Sony Ten
+http://103.81.241.48:8000/play/a02f
 
