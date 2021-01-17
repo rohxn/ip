@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/sURSx5C.jpg" group-title="",Sony Sab Hd
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",Sony Sab Hd
 https://bit.ly/3fBsABhd
 
 #EXTINF:-2 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo=" " group-title="",Sony Pal
@@ -46,9 +46,6 @@ http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-9 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/HbfNpBy.png" group-title="",National Geographic Channel HD 
 http://103.81.241.48:8000/play/a02e
 
-#EXTINF:-10 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/QkrhHrF.png" group-title="",9xm
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
-
 
 #EXTINF:-11 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/wF7yIzf.jpg" group-title="",Star Sports Hindi
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=veera4utv
@@ -59,8 +56,8 @@ http://103.81.241.48:8000/play/a02j
 
 #EXTINF:-13 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/ZB5gftI.jpg" group-title="",Sony Ten
 http://103.81.241.48:8000/play/a02f
-B
-#EXTINF:-14 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/Gttxk4X.png.jpg" group-title="",Aaj Tak Hd
+
+#EXTINF:-14 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",Aaj Tak Hd
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
 #EXTINF:-14 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/Gttxk4X.png.jpg" group-title="",Aaj Tak
@@ -68,6 +65,9 @@ http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.sm
 
 #EXTINF:-15 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/srQLp0z.png" group-title="",R Bharat
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?
+
+#EXTINF:-15 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 
 #EXTINF:-14 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
