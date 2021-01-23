@@ -1,86 +1,186 @@
 #EXTM3U
-#EXTINF:1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",Sony Sab Hd
+#EXTINF:0 tvg-id="SONYSAB.uk" group-title="Entertainment",Sony Sab
 https://bit.ly/3fBsABhd
-
-#EXTINF:2 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo=" " group-title="",Sony Pal
+#EXTINF:0 tvg-id="SonyPal.in" group-title="Entertainment",Sony pal
 https://bit.ly/30a3wsONyPal
-
-#EXTINF:3 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",Sony Set Hindi
+#EXTINF:0 tvg-id="set" group-title="Entertainment",Sony Hd
 https://bit.ly/3fKTNU8seTHd
+#EXTINF:0 tvg-id="ZeeTV.uk" group-title="Entertainment",Zee TV HD
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.49:2200/EX/zeetvhd-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",&tv Hd
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.47:2200/R-EX/HINDI_AND_TV_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="Rishtey.uk" group-title="Entertainment",Rishtey
+https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
+#EXTINF:0 tvg-id="Colors.in" group-title="Entertainment",Colors HD
+https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
+#EXTINF:0 tvg-id="StarPlus.uk" group-title="Entertainment",Star Plus HD
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.47:2200/R-EX/HINDI_STAR_PLUS_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="LifeOk.in" group-title="Entertainment",Star Bharat HD
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.44:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Big Ganga
+https://y5w8j4a9.ssl.hwcdn.net/bigganga/index.m3u8
 
 
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Shemaroo TV
+https://voot.shemaroo.com/shemarootv/smil:shemarootvadp.smil/chunklist_b1628000_sleng.m3u8
+#EXTINF:0 tvg-id="karusel" group-title="Entertainment",DD National
+https://viacom-b.multitvsolution.com/dashv/ddnational.mpd
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",DD Retro
+https://viacom-b.multitvsolution.com/dashv/ddretro.mpd
 
-#EXTINF:4 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",Star Plus
-http://103.81.241.48:8000/play/a02g
 
-#EXTINF:5 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",Zee Tv
-https://z5amshls.akamaized.net//apacsea/tracks-v3a1/mono.m3u8
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Entertainment",Comedy Central HD
+https://livevoot-i.akamaihd.net/dash/live/876250/comedycentral/master.mpd
+#EXTINF:0 tvg-id="ColorsInfinity.in" group-title="Entertainment",Colors Infinity HD
+https://livevoot-i.akamaihd.net/dash/live/876252/colorsinfinity/master.mpd
 
-#EXTINF:6 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",Sony Max HD
+#EXTINF:0 tvg-id="Pictures.in" group-title="Entertainment",& Pictures
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.51:2200/R-EX/HINDI_AND_PICTURES_HD-in/tracks-v1a1/mono.m3u8?token=
+
+#EXTINF:0 tvg-id="ZeeCafe.uk" group-title="Entertainment",Zee Cafe Sd
+https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ZeeCafe.in" group-title="Entertainment",Zee Cafe Hd
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="BigMagic.in" group-title="Entertainment",Big Magic
+https://y5w8j4a9.ssl.hwcdn.net/bigmagic/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Hindi Movies",&Pictures Hd(Link 2)
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
+
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title="Movies",Zee Cinema HD
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://122.254.76.20:2200/R-EX/HINDI_ZEE_CINEMA_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="Movies",Zee Cinema Hd(Link 2)
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="UTV.uk" group-title="Movies",UTV HD
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://122.254.76.15:2200/R-EX/HINDI_UTV_HD-in/index.m3u8?token=
+#EXTINF:0 tvg-id="SonyMax2.uk" group-title="Movies",Sony Max 2
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.49:2200/R-EX/HINDI_SONY_MAX_2-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="UTVAction.in" group-title="Movies",UTV Action
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.44:2200/R-EX/HINDI_UTV_ACTION-in/index.m3u8?token=
+#EXTINF:0 tvg-id="UMPMovies.uk" group-title="Movies",UTV Movies
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.44:2200/R-EX/HINDI_UTV_MOVIES-in/index.m3u8?token=
+#EXTINF:0 tvg-id="ZeeBollywood.us" group-title="Movies",Zee Bollywood
+https://y5w8j4a9.ssl.hwcdn.net/classic/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ZeeAction.in" group-title="Movies",Zee Action
+https://y5w8j4a9.ssl.hwcdn.net/action/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Zee Anmol Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
+#EXTINF:0 tvg-id="RishteyCineplex.uk" group-title="Movies",Rishtey Cineplex
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:0 tvg-id="SonyMAX.in" group-title="Movies",Sony Max Hd
 https://bit.ly/32bsOnymAXhd
-
-#EXTINF:7 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",Sony Wah
+#EXTINF:0 tvg-id="SonyMax2.uk" group-title="Movies",Sony Max 2
+https://bit.ly/30dsoNYmaX2
+#EXTINF:0 tvg-id="ext" group-title="Movies",Sony Wah
 https://bit.ly/3j7sOnywAh
-
-#EXTINF:8 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",Zee Cinema HD
-https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
-
-#EXTINF:9 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",&pictures HD
-https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
-
-#EXTINF:10 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",&pictures 
-https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
-
-#EXTINF:11 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",Sony Pix HD
+#EXTINF:0 tvg-id="SonyPIX.in" group-title="Movies",Sony Pix Hd
 https://bit.ly/32sOnypIXhd
+#EXTINF:0 tvg-id="ext" group-title="Movies",Sony Pix Hd(Link 2)
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://122.254.76.16:2200/R-EX/HINDI_SONY_PIX_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="Movies",Colors Cineplex HD
+https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd
+#EXTINF:0 tvg-id="StarGoldHD.in" group-title="Movies",Star Gold HD
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.52:2200/R-EX/HINDI_STAR_GOLD_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="StarGoldHD.in" group-title="Movies",Star Gold select HD
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://122.254.76.16:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="StarGoldHD.in" group-title="Movies",Star Movies select HD
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.50:2200/R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="StarWorldHD.in" group-title="Movies",Star World HD
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.44:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/tracks-v1a1/mono.m3u8?token=
 
-#EXTINF:12 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="",&flix HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8 
+#EXTINF:0 tvg-id="ZeeNews.uk" group-title="News",Zee News
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.44:2200/R-EX/HINDI_ZEE_NEWS-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ABPNews.uk" group-title="News",ABP News
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",RSTV RajyaSabha
+https://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",& PRIVE HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
-#EXTINF:13 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="",&flix
-https://y5w8j4a9.ssl.hwcdn.net/andflix/index.m3u8
+#EXTINF:0 tvg-id="9XM.in" group-title="Music",9xm
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",Mastii Music
+https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",MTV Beats HD
+https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
+#EXTINF:0 tvg-id="ext" group-title="Music",MTV HD Plus
+https://livevoot-i.akamaihd.net/dash/live/828545/mtvhd/master.mpd
 
-#EXTINF:14 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="",&prive Hd
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v4a1/index.m3u8 
+#EXTINF:0 tvg-id="ext" group-title="Infotainment",Discovery Hindi
+https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
+#EXTINF:0 tvg-id="animal_rus" group-title="Infotainment",Animal Planet
+https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
+#EXTINF:0 tvg-id="discov_sci" group-title="Infotainment",Discovery Science
+https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Infotainment",Discovery Turbo
+https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
+#EXTINF:0 tvg-id="tlc-russia" group-title="Infotainment",TLC
+https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8
 
-#EXTINF:15 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="",HBO
-http://136.243.177.164/HBO/playlist.m3u8
+#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Kids",Discovery Kids
+https://streamitv.multitvsolution.in/idvo/discoverykidshindi_540p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",Sony Yay
+https://bit.ly/2WmsoNYYaY
+#EXTINF:0 tvg-id="nickelod" group-title="Kids",Nick HD+
+https://livevoot-i.akamaihd.net/dash/live/876655/nickhd/master.mpd
+#EXTINF:0 tvg-id="nick-jr" group-title="Kids",Nick Junior
+https://livevoot-i.akamaihd.net/dash/live/876653/nickjunior/master.mpd
+#EXTINF:0 tvg-id="ext" group-title="Kids",Sonic Hindi
+https://livevoot-i.akamaihd.net/dash/live/876657/sonic/master.mpd
 
-#EXTINF:16 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="",National Geographic Channel HD 
-http://103.81.241.48:8000/play/a02e
-
-
-#EXTINF:16 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",Star Sports Hindi
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=veera4utv
-
-
-#EXTINF:17 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="",Star Sports Select 1 HD 
-http://103.81.241.48:8000/play/a02j
-
-#EXTINF:18 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",Sony Ten
-http://103.81.241.48:8000/play/a02f
-
-#EXTINF:19 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",Aaj Tak Hd
-https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-
-#EXTINF:20 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",Aaj Tak
+#EXTINF:0 tvg-id="AAJTAK.uk" group-title="INDIA",Aaj Tak
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INDIA",AAJ TAK HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:0 tvg-id="ABPNews.uk" group-title="INDIA",ABP News
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INDIA",B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:0 tvg-id="B4UMusic.uk" group-title="INDIA",B4U Music
+http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
+#EXTINF:0 tvg-id="DDNews.in" group-title="INDIA",DD News
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INDIA",India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:0 tvg-id="zee" group-title="INDIA",India TV
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INDIA",Republic TV Bharat
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?hdnts=st=1567723990~exp=1567726990~acl=/*~hmac=40fec7023d1d84b24d1267d9ee0ab92bceff3d35274ebef7be58aaeea1472868
 
-#EXTINF:21 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",R Bharat
-https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?
-
-#EXTINF:22 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",CNBC Awaaz
-https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
-
-#EXTINF:23 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",NDTV India
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
-
-
-#EXTINF:24 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",Zee bihar
-https://y5w8j4a9.ssl.hwcdn.net/biharjharkh/index.m3u8
-
-#EXTINF:25 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",9xm
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:0 tvg-id="TenHD.in" group-title="Sports",Sony Ten 1 Hd
+https://bit.ly/2B9tEN1hd
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sony Ten 1 Hd(Link 2)
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://122.254.76.17:2200/R-EX/SPORTS_TEN_1_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="TenAction.in" group-title="Sports",Sony Ten 2 Hd
+https://bit.ly/2DOtEN2hd
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sony Ten 2 Hd(Link 2)
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://122.254.76.17:2200/R-EX/SPORTS_TEN_2_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="TenCricket.in" group-title="Sports",Sony Ten 3 Hd
+https://bit.ly/2OwtEn3hd
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sony Ten 3 Hd(Link 2)
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://122.254.76.17:2200/R-EX/SPORTS_TEN_3_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="TenSports.in" group-title="Sports",Sony Ten 1 Sd
+https://bit.ly/2ZtEn1Sd
+#EXTINF:0 tvg-id="TenAction.in" group-title="Sports",Sony Ten 2 Sd
+https://bit.ly/30teN2sd
+#EXTINF:0 tvg-id="TenCricket.in" group-title="Sports",Sony Ten 3 Sd
+https://bit.ly/2B9teN3sd
+#EXTINF:0 tvg-id="SonySix.in" group-title="Sports",Sony Six Sd
+https://bit.ly/3j8sIx7sd
+#EXTINF:0 tvg-id="SonySixHD.in" group-title="Sports",Sony Six Hd
+https://bit.ly/3h6sIXHd
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sony Six Hd(Link 2)
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.48:2200/R-EX/SPORTS_SONY_SIX_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="StarSportsSelectHD1.in" group-title="Sports",Star Sports select HD 1
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.51:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="StarSportsHD1.in" group-title="Sports",Star Sports HD 1
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.50:2200/EX/starsports1hd-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="Sports",Star Sports HD 1 Hindi
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.44:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="StarSportsHD2.in" group-title="Sports",Star Sports HD 2
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/HINDI_UTV_MOVIES-in/tracks-v1a1/index.m3u8?token=
 
 
 
