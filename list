@@ -3,5 +3,5 @@
 https://bit.ly/3fBsABhd
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Hungama_tv_logo.png/220px-Hungama_tv_logo.png" group-title="Kids", Hungama tv
 http://geni.ktk.si:49310/dione/hungama/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIxIDEwOjI0OjA4IEFNJmhhc2hfdmFsdWU9ekl0a2swaTFsWUs2T1dwaWpSOUdDUT09JnZhbGlkbWludXRlcz0y
-EXTINF: -1 tvg-name="Sony Hd" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment", Sony Hd
+#EXTINF: -1 tvg-name="Sony Hd" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment", Sony Hd
 http://pn.tvott.info:80/477845056156344/477845056156344/83706
