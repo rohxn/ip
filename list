@@ -1,4 +1,3 @@
 #EXTM3U
-#EXTINF:0 tvg-id="SONYSAB.uk" group-title="Entertainment",Hungama
-http://hin2.error-404.website/HUNGAMA/KIDS/HIN/index.m3u8?token=04d58a9f4379dc2722464a5a03c95013
-
+#EXTINF:0 tvg-id="tv" group-title="Entertainment",Hungama
+http://geni.ktk.si:45323/dione/hungama/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIxIDU6MzU6MTQgQU0maGFzaF92YWx1ZT02cG1GRG82dSthVGl1azVZNVBrZVl3PT0mdmFsaWRtaW51dGVzPTI=
